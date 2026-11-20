@@ -1,4 +1,4 @@
-# Business China YLP Immersion Programme - Shenzhen
+# Building AI Readiness for the Future Economy (Jan 2027)
 
 这是一个独立的深圳项目申请页面，适合单独部署到新的 GitHub 仓库和新的 Vercel 项目。
 
@@ -24,10 +24,10 @@
 
 ## 当前项目信息
 
-- Programme: `Business China YLP Immersion Programme - Shenzhen`
-- Current stage: `Application collection only`
-- Main page: [index.html](file:///Users/zihangzhu/Documents/trae_projects/BUSINESS%20CHINA/public/index.html)
-- Success page: [success.html](file:///Users/zihangzhu/Documents/trae_projects/BUSINESS%20CHINA/public/success.html)
+- Programme: `Building AI Readiness for the Future Economy: Technology, Innovation and Sustainable Development in Shenzhen and Guangzhou`
+- Current stage: `Payment confirmation + receipt upload`
+- Main page: public/index.html
+- Success page: public/success.html
 
 ## 上线前你要做的事
 
